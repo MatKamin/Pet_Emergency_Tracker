@@ -1,0 +1,9 @@
+RewriteEngine on
+
+ErrorDocument 404 /composer-qrcode/errorpage.php
+ErrorDocument 403 /composer-qrcode/errorpage.php
+ErrorDocument 405 /composer-qrcode/errorpage.php
+ErrorDocument 408 /composer-qrcode/errorpage.php
+ErrorDocument 500 /composer-qrcode/errorpage.php
+ErrorDocument 502 /composer-qrcode/errorpage.php
+ErrorDocument 504 /composer-qrcode/errorpage.php

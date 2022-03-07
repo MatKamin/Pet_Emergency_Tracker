@@ -1,0 +1,58 @@
+<xliff version='1.2' xmlns='urn:oasis:names:tc:xliff:document:1.2'>
+    <file source-language='en' target-language='de' datatype='plaintext'>
+        <body>
+            <trans-unit id='generate'>
+                <source>Generate QR Code</source>
+                <target>Generiere QR Code</target>
+            </trans-unit>
+            <trans-unit id='name'>
+                 <source>John Smith</source>
+                 <target>Max Mustermann</target>
+            </trans-unit>
+            <trans-unit id='number'>
+                  <source>+4462916432</source>
+                  <target>+4369912345678</target>
+            </trans-unit>
+            <trans-unit id='generate'>
+                  <source>Generate Now</source>
+                  <target>Jetzt Generieren</target>
+            </trans-unit>
+            <trans-unit id='generate'>
+                  <source>Phonenumber: </source>
+                  <target>Telefonnummer: </target>
+            </trans-unit>
+            <trans-unit id='petName'>
+                  <source>Pet Name: </source>
+                  <target>Haustiername: </target>
+            </trans-unit>
+            <trans-unit id='download'>
+                  <source>Download</source>
+                  <target>Herunterladen</target>
+            </trans-unit>
+            <trans-unit id='generateNew'>
+                  <source>Generate New</source>
+                  <target>Erneut Generieren</target>
+            </trans-unit>
+            <trans-unit id='language'>
+                  <source>Language</source>
+                  <target>Sprache</target>
+            </trans-unit>
+            <trans-unit id="title">
+                  <source>Pet Emergency Tracker</source>
+                  <target>Haustier Notfall Tracker</target>
+            </trans-unit>
+            <trans-unit id="error">
+                  <source>404 Page Not Found</source>
+                  <target>404 Seite Nicht Gefunden</target>
+            </trans-unit>
+            <trans-unit id="error2">
+                  <source>Back To Homepage</source>
+                  <target>Zur Startseite</target>
+            </trans-unit>
+            <trans-unit id="name">
+                  <source>Name: </source>
+                  <target>Name: </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>

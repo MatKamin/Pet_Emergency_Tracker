@@ -1,0 +1,58 @@
+<xliff version='1.2' xmlns='urn:oasis:names:tc:xliff:document:1.2'>
+    <file source-language='en' target-language='fr' datatype='plaintext'>
+        <body>
+            <trans-unit id='generate'>
+                <source>Generate QR Code</source>
+                <target>Générer un Code QR</target>
+            </trans-unit>
+            <trans-unit id='name'>
+                 <source>John Smith</source>
+                 <target>Monsieur Untel</target>
+            </trans-unit>
+            <trans-unit id='number'>
+                  <source>+4462916432</source>
+                  <target>+33612345678</target>
+            </trans-unit>
+            <trans-unit id='generate'>
+                  <source>Generate Now</source>
+                  <target>Générer Maintenant</target>
+            </trans-unit>
+            <trans-unit id='generate'>
+                  <source>Phonenumber: </source>
+                  <target>Numéro de Téléphone: </target>
+            </trans-unit>
+            <trans-unit id='petName'>
+                  <source>Pet Name: </source>
+                  <target>Nom d'animal Domestique: </target>
+            </trans-unit>
+            <trans-unit id='download'>
+                  <source>Download</source>
+                  <target>Télécharger</target>
+            </trans-unit>
+            <trans-unit id='generateNew'>
+                  <source>Generate New</source>
+                  <target>Générer Nouveau</target>
+            </trans-unit>
+            <trans-unit id='language'>
+                  <source>Language</source>
+                  <target>Langue</target>
+            </trans-unit>
+            <trans-unit id="title">
+                  <source>Pet Emergency Tracker</source>
+                  <target>Traqueur d'urgence pour animaux de compagnie</target>
+            </trans-unit>
+            <trans-unit id="error">
+                  <source>404 Page Not Found</source>
+                  <target>404 Page Non Trouvée</target>
+            </trans-unit>
+            <trans-unit id="error2">
+                  <source>Back To Homepage</source>
+                  <target>Vers la page d'accueil</target>
+            </trans-unit>
+            <trans-unit id="name">
+                  <source>Name: </source>
+                  <target>Nom de Famille: </target>
+            </trans-unit>
+        </body>
+    </file>
+</xliff>
